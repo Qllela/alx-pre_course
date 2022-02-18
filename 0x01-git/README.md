@@ -1,1 +1,0 @@
-This is my first git README.md file int ALX SE program.
